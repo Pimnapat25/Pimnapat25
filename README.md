@@ -1,4 +1,4 @@
-# 🅷🅴🅻🅻🅾, 🅸'🅼 🅿🅰🆃🆃🆈 👋
+# Ｈｅｌｌｏ， Ｉ＇ｍ Ｐａｔｔｙ 👋
 
 [![](https://img.shields.io/badge/-@Pimnapat25-%23181717?style=flat-square&logo=github)](https://github.com/Pimnapat25)
 
@@ -7,7 +7,9 @@
 
 🤖🧠👾 🇦​​🇮​ (​🇸​​🇮​​🇬​​🇳​​🇦​​🇱​, ​🇳​​🇱​​🇵​, ​🇮​​🇲​​🇦​​🇬​​🇪​) | 🔐 ​🇨​​🇾​​🇧​​🇪​​🇷​​🇸​​🇪​​🇨​​🇺​​🇷​​🇮​​🇹​​🇾​ | 🍵 ​🇲​​🇦​​🇹​​🇨​​🇭​​🇦​ ​🇱​​🇴​​🇻​​🇪​​🇷​
 
-💡 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙗𝙧𝙞𝙣𝙜𝙞𝙣𝙜 𝙞𝙙𝙚𝙖𝙨 𝙩𝙤 𝙡𝙞𝙛𝙚. 𝙀𝙭𝙥𝙡𝙤𝙧𝙚 𝙖𝙡𝙡 𝙣𝙚𝙬 𝙥𝙤𝙨𝙨𝙞𝙗𝙞𝙡𝙞𝙩𝙞𝙚𝙨.
+💡 ​​🇦​​🇸​​🇸​​🇮​​🇴​​🇳​​🇦​​🇹​​🇪​ ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇧​​🇷​​🇮​​🇳​​🇬​​🇮​​🇳​​🇬​ ​🇮​​🇩​​🇪​​🇦​​🇸​ ​🇹​​🇴​ ​🇱​​🇮​​🇫​​🇪​. ​🇪​​🇽​​🇵​​🇱​​🇴​​🇷​​🇪​ ​🇦​​🇱​​🇱​ ​🇳​​🇪​​🇼​ ​🇵​​🇴​​🇸​​🇸​​🇮​​🇧​​🇮​​🇱​​🇮​​🇹​​🇮​​🇪​​🇸​
+
+I just started in this field not long ago, but I am truly committed to learning, exploring, and continuously improving my skills. This is just the first chapter, with much more to come. 🌟🚀
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -27,9 +29,9 @@ ML/DL :
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 Tools : 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 Design : 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -39,6 +41,14 @@ Design :
 Others : 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+## 𝗚𝗼𝗮𝗹𝘀
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
